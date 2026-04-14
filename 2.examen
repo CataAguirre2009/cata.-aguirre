@@ -1,0 +1,6 @@
+import pandas as pd
+df = pd.read_csv('StudentsPerformance.csv')
+print (df[['math score','reading score','writing score']])
+print (df.shape)
+print (df.count())
+print (df['writing score'].count())
