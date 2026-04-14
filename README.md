@@ -15,3 +15,5 @@ abrir el csv. mostrar la columna reading score. mostrar la cantidad y mostrar la
 actividad 4
 
 abrir el csv. mostrar las dos primeras columnas. mostrar los tipo de datos. mostrar las ultimas 10 filas.
+
+
